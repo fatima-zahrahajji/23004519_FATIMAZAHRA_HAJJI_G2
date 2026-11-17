@@ -30,15 +30,4 @@ La variable explicative (X) est le taux de croissance trimestriel du PIB réel.
 
 La variable cible (Y) est la variation trimestrielle du taux de chômage.
 
-## 5. Organisation du projet
 
-- `data/` : fichiers de données.
-- `notebooks/` : notebook contenant le code et les explications.
-- `figures/` : graphiques obtenus pendant l'analyse.
-- `reports/` : rapport final du projet.
-- `descriptive.md` : description du jeu de données.
-- `requirements.txt` : bibliothèques Python utilisées.
-
-## 6. Auteur
-
-Projet individuel réalisé dans le cadre du cours de Machine Learning.
